@@ -1,4 +1,4 @@
-noise_detecor: Connected Noise Detector
+NoiseDetector: Connected Noise Detector
 ======
 
 Noise Detector is a simple device for lowering noise levels in the office or public places. It monitors noise level and alarms when it gets too loud. It is also connected to cloud for providing noise data for further analytics
