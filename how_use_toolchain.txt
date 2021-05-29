@@ -1,0 +1,25 @@
+ls /dev/cu.*
+
+/dev/ttyUSB0 - UNIX
+/dev/cu.SLAB_USBtoUART - MAC
+
+==========
+To exit the monitor use shortcut Ctrl+] --- CTRL + ALT + 6
+Ctrl-T Ctrl-H will display a help menu with all other keyboard shortcuts.
+Any other key apart from Ctrl-] and Ctrl-T is sent through the serial port.
+============
+
+Now you can build and flash the application. Run:
+
+make flash
+
+This will compile the application and all the ESP-IDF components, generate bootloader, partition table, and application binaries, and flash these binaries to your ESP32 board.
+
+To see if “hello_world” application is indeed running, type 
+make monitor. 
+This command is launching IDF Monitor application
+
+To exit monitor use shortcut Ctrl+]. 
+
+To execute make flash and make monitor in one shoot type 
+make flash monitor.

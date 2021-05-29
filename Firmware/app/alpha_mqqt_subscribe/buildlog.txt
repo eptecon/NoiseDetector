@@ -1,0 +1,1 @@
+LD build/main.elf
