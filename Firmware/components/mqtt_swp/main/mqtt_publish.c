@@ -68,7 +68,7 @@
 const int CONNECTED_BIT = BIT0;
 
 /* Constants that aren't configurable in menuconfig */
-#define MQTT_SERVER "gluelogics.iotwebtools.com" //"murzilka" //"eptecon001"
+#define MQTT_SERVER "gluelogics.com"
 //#define MQTT_PORT 443
 #define MQTT_PORT 1883
 //#define MQTT_PORT 8883

@@ -17,7 +17,6 @@ The firmware consists of a RTOS and applications for measuring and analysing of 
 ### Usage
 
 No software installation is required. Just turn on and connect to your WiFi Network. Immediately after connecting, the device starts to send the measured noise level 
-to a cloud service enabling analytics for your working environment, even without invasive notifications.
-
+to the cloud service ([GlueLogics](https://github.com/eptecon/gluelogics)) enabling analytics for your working environment, even without invasive notifications.
 
 ---
