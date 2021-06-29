@@ -1,7 +1,7 @@
 NoiseDetector: Connected Noise Detector
 ======
 
-Noise Detector is a simple device for lowering noise levels in the office or public places. It monitors noise level and alarms when it gets too loud. It is also connected to cloud for providing noise data for further analytics
+Noise Detector is a simple device for lowering noise levels in the office or public places. It monitors noise level and alarms when it gets too loud. It is also connected to cloud over Wireless LAN for providing noise data for further analytics
 It is easy to install and use in every environment.
 
 
@@ -16,7 +16,7 @@ The firmware consists of a RTOS and applications for measuring and analysing of 
 
 ### Usage
 
-No software installation is required. Just turn on and connect to your WiFi Network. Immediately after connecting, the device starts to send the measured noise level 
+No software installation is required. Just turn on and connect to your WLAN Network. Immediately after connecting, the device starts to send the measured noise level 
 to the cloud service ([GlueLogics](https://github.com/eptecon/gluelogics)) enabling analytics for your working environment, even without invasive notifications.
 
 ---
